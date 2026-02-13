@@ -55,7 +55,7 @@ yes.addEventListener("click", () => {
   vid.style.display = "block";
   gif.src = "idc.gif";
   text.innerHTML = "YEYYYYY!😘";
-  yes.innerHTML = '<a href="https://www.instagram.com/frank_mic21/">Message me</a>';
+  yes.innerHTML = '<a href="https://www.instagram.com/prblyfrank/">Message me</a>';
   yes.style.height = "90%";
   yes.style.width = "96%";
   no.style.display = "none";
@@ -63,3 +63,4 @@ yes.addEventListener("click", () => {
     vid.style.display = "none";
   }, 9000);
 });
+
